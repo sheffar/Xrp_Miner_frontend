@@ -1,0 +1,1 @@
+The xrp_Miner, is a bot built to mine XRP Coin
